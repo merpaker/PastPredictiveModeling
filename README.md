@@ -1,5 +1,5 @@
 # PastPredictiveModeling
-This repository has the most up-to-date code for the implementation of past predictive modeling ("Past Predictive Modeling", Paker, Stephenson, Wallis, LSE working paper 2025)
+This repository has the most up-to-date code for the implementation of past predictive modeling ("Predictive Modeling the Past", Paker, Stephenson, Wallis, LSE working paper 2025, https://eprints.lse.ac.uk/128852/1/WP-379.pdf)
 
 PastPredictiveModeling_PSW2025v2.py runs the main analysis in the paper. We are not able to share the underlying data from Clark (2005), so this code is for reference only.
 
